@@ -5,8 +5,11 @@
   "main": "main",
   "scripts": {
     "test": "grunt validate --verbose",
-    "start": "node index.js",
-    },
+    "start": "node index.js"
+  },
   "author": "ajay",
-  "license": "ISC"
+  "license": "MIT",
+  "dependencies": {
+    "seneca": "^3.29.0"
+  }
 }
