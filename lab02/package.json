@@ -1,0 +1,12 @@
+{
+  "name": "lab02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt validate --verbose",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
