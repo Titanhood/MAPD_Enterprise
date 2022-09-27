@@ -1,0 +1,12 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "first test",
+  "main": "main",
+  "scripts": {
+    "test": "grunt validate --verbose",
+    "start": "node index.js",
+    },
+  "author": "ajay",
+  "license": "ISC"
+}
